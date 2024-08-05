@@ -1,5 +1,5 @@
 # podemos criar um ficheiro que indique, quais são os ficheiros ou pastas para não serem considerados nos commits!
-.gitignore
+#.gitignore
  
 # podemos indicar um dado ficheiro
 intro_git.docx
@@ -7,6 +7,6 @@ intro_git.docx
 # podemos indicar o tipo de ficheiro que queremos não incluir nos commits
 *.docx
 *.zip
-
+*.py
 # podemos indicar a pasta que não queremos incluir
 pasta/*
