@@ -1,3 +1,6 @@
+# podemos criar um ficheiro que indique, quais são os ficheiros ou pastas para não serem considerados nos commits!
+.gitignore
+ 
 # podemos indicar um dado ficheiro
 intro_git.docx
 
