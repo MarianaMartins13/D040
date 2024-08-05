@@ -1,5 +1,9 @@
-*.docx
+# podemos indicar um dado ficheiro
+intro_git.docx
 
+# podemos indicar o tipo de ficheiro que queremos não incluir nos commits
+*.docx
 *.zip
 
-venv/*
+# podemos indicar a pasta que não queremos incluir
+pasta/*
